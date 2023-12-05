@@ -1,0 +1,42 @@
+/*@import url(/scratch.css); */
+
+.blockAll {
+    border: 2px solid black;
+    height: 200px;
+    width: 600px;
+
+}
+
+.block1 {
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    
+}
+
+.block2 {
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    position: absolute;
+    left: 200px;
+    top: 10px;
+
+}
+
+.block3 {
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    position: absolute;
+    left: 400px;
+    top: 10px;
+}
+
+.butons {
+    margin-top: 20px;
+}
+
